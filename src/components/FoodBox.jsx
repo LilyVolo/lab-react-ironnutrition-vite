@@ -1,4 +1,6 @@
 // Your code here
+import React from "react"
+
 function FoodBox (props) {
   
 return (
